@@ -3,9 +3,9 @@ AI Web Scrapper
 https://huggingface.co/spaces/khatri-indra/AI-Web-Scrapper 
 (go to Chrome Driver page and download the driver for your version of Chrome)
 
-streamlit - Frontend
-selenium - Webscraper
-langchain - Used to call the Ollama LLM
+import streamlit - Frontend
+import selenium - Webscraper
+import langchain - Used to call the Ollama LLM
 
 Training Video:
 https://www.youtube.com/watch?v=Oo8-nEuDBkk
